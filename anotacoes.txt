@@ -1,0 +1,3 @@
+Um shell script deve começar definindo qual interpretador deve ser utilizado, existem outros além do bash como:
+sh, ksh e o csh.
+Para definirmos usamos o comando #!/bin/SHELL_ATUAL
