@@ -1,3 +1,12 @@
 Um shell script deve começar definindo qual interpretador deve ser utilizado, existem outros além do bash como:
 sh, ksh e o csh.
 Para definirmos usamos o comando #!/bin/SHELL_ATUAL
+O comando echo exibe na tela o que for passado por parâmetro no comando
+O comando whoami exibe qual usuário está logado no sistema
+O comando uptime exibe a hora atual, o tempo decorrido desde que o computador foi ligado,
+o número de usuários logados e uma média de processos carregados
+O comando pwd exibe o diretório que o arquivo está rodando
+* Declaração de váriavel
+nome_da_variavel = valor, onde o nome é uma sequência de caracteres que 
+deve começar uma uma letra maiúscula ou minuscula ou underscore(_) e o valor 
+é qualquer dado valor que será atribuído a variavel
